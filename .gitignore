@@ -52,7 +52,7 @@ coverage/
 
 keys.json
 ios/Podfile.lock
-firbase.json
+firebase.json
 
 # FVM Version Cache
 .fvm/
