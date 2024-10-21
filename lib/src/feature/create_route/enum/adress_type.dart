@@ -1,0 +1,4 @@
+enum AdressType {
+  departure,
+  arrival,
+}

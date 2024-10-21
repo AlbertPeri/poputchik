@@ -1,0 +1,23 @@
+{
+  "Simulator Target Bundle": "com.djigit.companion",
+  "aps": {
+    "alert" : {
+       "title" : "Зухраб",
+       "body" : "Привет!"
+     
+    },
+    "chat_id": "75",
+    "senderName": "Albert",
+    "senderId": "3",
+    "path": "/chat",
+    "sound" : "default" ,
+    "badge":1
+ },
+ "gcm.message_id":"20021",
+  "data": {
+      "chat_id": "75",
+      "senderName": "Albert",
+      "senderId": "3",
+      "path": "/chat"
+  }
+}

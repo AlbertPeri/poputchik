@@ -1,0 +1,59 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.gradle/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/settings.json
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+pubspec.lock
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Code generation
+**/*.g.dart
+**/*.gr.dart
+**/*.gen.dart
+**/*.freezed.dart
+**/*.select.dart
+
+# Flutter Version Manager related
+
+coverage/
+
+keys.json
+ios/Podfile.lock
+firbase.json
+
+# FVM Version Cache
+.fvm/
+test_notification_test.apns
